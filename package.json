@@ -53,7 +53,7 @@
     "web-vitals": "^2.1.4",
     "web3": "^4.16.0"
   },
-  "homepage": "https://YOUR_GITHUB_USERNAME.github.io/ecomerce",
+  "homepage": "https://ridaMukhtar92.github.io/ecomerce",
   "scripts": {
     "start": "concurrently \"npm run server\" \"npm run client\"",
     "dev": "concurrently \"npm run server\" \"npm run client\"",
