@@ -9,7 +9,7 @@ import { Link } from "react-router-dom";
 import toast from "react-hot-toast";
 
 const options = ["1", "2", "3"];
-const count = 0; // Dummy count for the product quantity as the API do not have any attribute to see the SKU or product in stock count
+const count = 10; // Dummy count for the product quantity as the API do not have any attribute to see the SKU or product in stock count
 
 const ProductCard = ({ product }) => {
   const [selectedVariant, setSelectedVariant] = useState({});
